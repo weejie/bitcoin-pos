@@ -20,6 +20,7 @@ way to easily input btc addresses in Setup function,
 ability to query confirmations,
 invoice reports,
 button functionality (waiting on parts from adafruit),
-custom qr codes based on price
+custom qr codes based on price,
+QR to print faster
 
 
