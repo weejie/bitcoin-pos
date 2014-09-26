@@ -4,8 +4,8 @@ bitcoin-pos
 Point-of-sale system for bitcoin.  
 
 Hardware:
-raspberri pi
-thermal printer
+raspberri pi,
+thermal printer,
 2.8" touch screen
 
 Code:
