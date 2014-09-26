@@ -15,11 +15,11 @@ Transactions stored in sqlite db.
 Coinbase backend.  Bitcoin price pulled every 60 sec.
 
 Need to add: 
--GUI
--way to easily input btc addresses in Setup function
--ability to query confirmations
--invoice reports
--button functionality (waiting on parts from adafruit)
--custom qr codes based on price
+GUI,
+way to easily input btc addresses in Setup function,
+ability to query confirmations,
+invoice reports,
+button functionality (waiting on parts from adafruit),
+custom qr codes based on price
 
 
